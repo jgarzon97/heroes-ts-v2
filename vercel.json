@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+        { "source": "/add_edit", "destination": "/add_edit.html" },
+        { "source": "/editar", "destination": "/editar.html" },
+        { "source": "/eliminar", "destination": "/eliminar.html" }
+    ]
+}
